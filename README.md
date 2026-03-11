@@ -65,14 +65,6 @@ No requiere servidor ni dependencias instaladas — D3 se carga desde CDN.
 ```bash
 # Opcionalmente, con un servidor local:
 npx serve src
-```
-
----
-
-## Autor
-
-**Ander Rodríguez**  
-[github.com/anderrodroj](https://github.com/anderrodroj)
 
 ---
 
