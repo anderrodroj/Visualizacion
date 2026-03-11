@@ -17,10 +17,10 @@
       <div class="hero-stat">
         <span id="hero-number">53</span><span class="hero-pct">%</span>
       </div>
-      <p class="hero-desc">de los niños en edad escolar<br><strong>está en el sistema educativo.</strong></p>
+      <p class="hero-desc">de los niños en edad escolar<br><strong>está en el sistema educativo</strong></p>
       <p class="hero-sub">El otro 47% — se quedó afuera.</p>
       <div class="scroll-hint">
-        <span>Desplázate para conocer la historia</span>
+        <span>Desplázate — la historia de la educación en Colombia</span>
         <div class="arrow-down"></div>
       </div>
     </div>
@@ -82,7 +82,7 @@
         Entre 2011 y 2019 el país fue construyendo lentamente su sistema educativo. La cobertura neta promedio pasó de <strong>86% a 89%</strong>.
       </p>
       <p>
-        El COVID-19 en 2020 frenó ese progreso. En 2021, cuando las escuelas reabrieron, la deserción <strong>se disparó al 4.2%</strong> — su nivel más alto en una década. Desde entonces, la recuperación ha sido lenta e incompleta.
+        El COVID-19 en 2020 frenó ese progreso. Las escuelas cerraron y la cobertura se estancó. Desde entonces, la recuperación de los indicadores educativos ha sido lenta e incompleta.
       </p>
       <div class="annotation-box">
         <div class="annotation-item">
@@ -115,7 +115,7 @@
         La deserción en 2020 bajó — los colegios simplemente pasaron a todos. Pero la repitencia se <strong>duplicó de un año a otro</strong>: de 2.6% en 2019 a 6.3% en 2020.
       </p>
       <p>
-        Los niños quedaron atrapados en su grado. Cuando reabrieron las escuelas, muchos eligieron no volver. La pandemia no solo interrumpió la escolaridad: dejó una herida que aún no cierra.
+        Los niños quedaron atrapados en su grado. Cuando reabrieron las escuelas en 2021, la deserción <strong>se disparó al 4.2%</strong> — muchos simplemente eligieron no volver. La pandemia no solo interrumpió la escolaridad: dejó una herida que aún no cierra.
       </p>
       <div class="callout-box">
         <p class="callout-num">+137%</p>
@@ -199,8 +199,99 @@
     </div>
   </section>
 
+  <!-- ══════════════════════════════════════════════════════ -->
+  <!-- DOCUMENTACIÓN DEL PROYECTO                             -->
+  <!-- ══════════════════════════════════════════════════════ -->
+  <section id="docs">
+    <div class="docs-inner">
+      <span class="section-tag">Documentación</span>
+      <h2>Sobre este proyecto</h2>
+      <p class="docs-desc">
+        <em>¿Dónde están los niños?</em> es un proyecto de <strong>data storytelling</strong> que narra la evolución de la educación preescolar, básica y media en Colombia entre 2011 y 2024 a través de visualizaciones interactivas.
+      </p>
+
+      <div class="docs-grid">
+
+        <div class="docs-card">
+          <h3>Datos</h3>
+          <ul>
+            <li><strong>Fuente:</strong> Ministerio de Educación Nacional de Colombia (MEN)</li>
+            <li><strong>Dataset:</strong> Estadísticas en Educación Preescolar, Básica y Media por Departamento</li>
+            <li><strong>Período:</strong> 2011 – 2024</li>
+            <li><strong>Cobertura:</strong> 34 departamentos · 37 indicadores · 462 registros</li>
+          </ul>
+          <h4>Indicadores utilizados</h4>
+          <ul>
+            <li>Cobertura neta y bruta (total y por nivel educativo)</li>
+            <li>Tasa de deserción escolar</li>
+            <li>Tasa de repitencia</li>
+            <li>Tasa de aprobación y reprobación</li>
+          </ul>
+        </div>
+
+        <div class="docs-card">
+          <h3>Los 5 capítulos</h3>
+          <ol class="docs-chapters">
+            <li><strong>La Brecha</strong> — Cobertura neta por departamento (2024): de La Guajira (100%) a Vaupés (53%)</li>
+            <li><strong>La Tendencia</strong> — Evolución nacional 2011–2024 y el impacto del COVID-19 en la cobertura</li>
+            <li><strong>La Paradoja COVID</strong> — La repitencia se duplicó (2.6% → 6.3%) mientras la deserción caía</li>
+            <li><strong>La Sombra</strong> — Repitencia nacional en máximo histórico: 10.2% en 2023</li>
+            <li><strong>Los que se van</strong> — Departamentos con mayor deserción escolar en 2024</li>
+          </ol>
+        </div>
+
+        <div class="docs-card">
+          <h3>Tecnologías</h3>
+          <ul>
+            <li><strong>HTML5 / CSS3</strong> — scrollytelling con <code>IntersectionObserver</code></li>
+            <li><strong>D3.js v7</strong> — barras horizontales, líneas de tendencia, áreas animadas</li>
+            <li><strong>JavaScript ES6+</strong> — vanilla, sin frameworks</li>
+          </ul>
+          <h4>Estructura</h4>
+          <ul class="docs-structure">
+            <li><code>index.html</code> — narrativa completa (7 secciones)</li>
+            <li><code>main.js</code> — lógica D3 y animaciones scroll</li>
+            <li><code>style.css</code> — dark theme, responsive</li>
+            <li><code>data.js</code> — dataset como <code>window.EDU_DATA</code></li>
+          </ul>
+        </div>
+
+        <div class="docs-card">
+          <h3>Equipo</h3>
+          <ul class="docs-team">
+            <li>
+              <span class="team-avatar">AR</span>
+              <span><strong>Anderson Rodríguez</strong><br><small>Montaje, edición &amp; visualización</small></span>
+            </li>
+            <li>
+              <span class="team-avatar">VA</span>
+              <span><strong>Valeria Arias</strong><br><small>Visualización</small></span>
+            </li>
+            <li>
+              <span class="team-avatar">LD</span>
+              <span><strong>Lucas Dueñas</strong><br><small>Montaje, modelado &amp; documentación</small></span>
+            </li>
+            <li>
+              <span class="team-avatar">NN</span>
+              <span><strong>Nicolás Narváez</strong><br><small>Modelado &amp; documentación</small></span>
+            </li>
+          </ul>
+          <div class="docs-links">
+            <a href="https://github.com/anderrodroj/Visualizacion" target="_blank" rel="noopener">Ver repositorio en GitHub →</a>
+            <a href="https://github.com/anderrodroj/Visualizacion/blob/master/docs/ATLAS%20EDUCATIVO_%20Documentaci%C3%B3n.pdf" target="_blank" rel="noopener">Ver documentación del proyecto →</a>
+          </div>
+        </div>
+
+      </div>
+
+      <p class="docs-footer">
+        Datos públicos del MEN · Código bajo licencia MIT
+      </p>
+    </div>
+  </section>
+
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
-  <script src="data.js"></script>
+  <script src="../data/data.js"></script>
   <script src="main.js"></script>
 </body>
 </html>

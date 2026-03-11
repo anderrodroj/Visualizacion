@@ -1,9 +1,5 @@
-# Dataset fuente (no subir a repo)
-data/
-
-# Archivos raíz de trabajo local (no los de src/)
-/data.js
-/data.json
+# Dataset fuente CSV (grande, no subir)
+data/*.csv
 
 # OS
 .DS_Store

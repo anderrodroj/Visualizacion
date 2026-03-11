@@ -94,7 +94,7 @@
     const barH = 20;
     const gap  = 6;
     const n    = dept2024.length;
-    const margin = { top: 20, right: 60, bottom: 40, left: 170 };
+    const margin = { top: 36, right: 60, bottom: 40, left: 170 };
     const innerW = W - margin.left - margin.right;
     const innerH = n * (barH + gap);
     const H = innerH + margin.top + margin.bottom;
@@ -197,6 +197,13 @@
       .attr('font-size', 9)
       .attr('fill', 'rgba(255,255,255,0.35)')
       .text('100%');
+
+    // Chart title
+    g.append('text')
+      .attr('class', 'chart-title')
+      .attr('x', 0).attr('y', -20)
+      .attr('fill', C.muted)
+      .text('COBERTURA NETA POR DEPARTAMENTO — 2024 (%)');
   }
 
   /* ════════════════════════════════════════════════════════

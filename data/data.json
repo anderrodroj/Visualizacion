@@ -1,0 +1,4567 @@
+{
+  "national": [
+    {
+      "AÑO": 2011,
+      "COBERTURA_NETA": 86.37,
+      "DESERCIÓN": 5.07,
+      "REPITENCIA": 2.82,
+      "REPROBACIÓN": 2.76,
+      "APROBACIÓN": 92.24
+    },
+    {
+      "AÑO": 2012,
+      "COBERTURA_NETA": 84.19,
+      "DESERCIÓN": 4.85,
+      "REPITENCIA": 2.19,
+      "REPROBACIÓN": 3.86,
+      "APROBACIÓN": 91.29
+    },
+    {
+      "AÑO": 2013,
+      "COBERTURA_NETA": 83.89,
+      "DESERCIÓN": 4.18,
+      "REPITENCIA": 1.9,
+      "REPROBACIÓN": 3.77,
+      "APROBACIÓN": 92.05
+    },
+    {
+      "AÑO": 2014,
+      "COBERTURA_NETA": 83.25,
+      "DESERCIÓN": 3.56,
+      "REPITENCIA": 1.95,
+      "REPROBACIÓN": 2.39,
+      "APROBACIÓN": 94.06
+    },
+    {
+      "AÑO": 2015,
+      "COBERTURA_NETA": 82.66,
+      "DESERCIÓN": 3.89,
+      "REPITENCIA": 1.77,
+      "REPROBACIÓN": 5.84,
+      "APROBACIÓN": 90.27
+    },
+    {
+      "AÑO": 2016,
+      "COBERTURA_NETA": 82.73,
+      "DESERCIÓN": 4.38,
+      "REPITENCIA": 2.54,
+      "REPROBACIÓN": 5.65,
+      "APROBACIÓN": 89.97
+    },
+    {
+      "AÑO": 2017,
+      "COBERTURA_NETA": 82.58,
+      "DESERCIÓN": 3.76,
+      "REPITENCIA": 2.94,
+      "REPROBACIÓN": 5.88,
+      "APROBACIÓN": 90.36
+    },
+    {
+      "AÑO": 2018,
+      "COBERTURA_NETA": 88.52,
+      "DESERCIÓN": 3.48,
+      "REPITENCIA": 2.32,
+      "REPROBACIÓN": 6.52,
+      "APROBACIÓN": 90.0
+    },
+    {
+      "AÑO": 2019,
+      "COBERTURA_NETA": 88.65,
+      "DESERCIÓN": 3.55,
+      "REPITENCIA": 2.64,
+      "REPROBACIÓN": 6.78,
+      "APROBACIÓN": 89.67
+    },
+    {
+      "AÑO": 2020,
+      "COBERTURA_NETA": 88.64,
+      "DESERCIÓN": 2.95,
+      "REPITENCIA": 6.26,
+      "REPROBACIÓN": 7.86,
+      "APROBACIÓN": 89.19
+    },
+    {
+      "AÑO": 2021,
+      "COBERTURA_NETA": 89.33,
+      "DESERCIÓN": 4.23,
+      "REPITENCIA": 5.76,
+      "REPROBACIÓN": 8.5,
+      "APROBACIÓN": 87.27
+    },
+    {
+      "AÑO": 2022,
+      "COBERTURA_NETA": 88.31,
+      "DESERCIÓN": 4.73,
+      "REPITENCIA": 7.46,
+      "REPROBACIÓN": 7.68,
+      "APROBACIÓN": 87.6
+    },
+    {
+      "AÑO": 2023,
+      "COBERTURA_NETA": 87.28,
+      "DESERCIÓN": 4.25,
+      "REPITENCIA": 10.18,
+      "REPROBACIÓN": 7.77,
+      "APROBACIÓN": 87.98
+    },
+    {
+      "AÑO": 2024,
+      "COBERTURA_NETA": 85.45,
+      "DESERCIÓN": 4.05,
+      "REPITENCIA": 9.68,
+      "REPROBACIÓN": 7.24,
+      "APROBACIÓN": 88.7
+    }
+  ],
+  "dept_2024": [
+    {
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 100.12,
+      "DESERCIÓN": 2.8,
+      "REPITENCIA": 12.89,
+      "APROBACIÓN": 88.68
+    },
+    {
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 97.75,
+      "DESERCIÓN": 3.4,
+      "REPITENCIA": 8.63,
+      "APROBACIÓN": 90.34
+    },
+    {
+      "DEPARTAMENTO": "Tolima",
+      "COBERTURA_NETA": 97.06,
+      "DESERCIÓN": 3.66,
+      "REPITENCIA": 7.93,
+      "APROBACIÓN": 90.5
+    },
+    {
+      "DEPARTAMENTO": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "COBERTURA_NETA": 94.0,
+      "DESERCIÓN": 1.94,
+      "REPITENCIA": 8.45,
+      "APROBACIÓN": 88.25
+    },
+    {
+      "DEPARTAMENTO": "Risaralda",
+      "COBERTURA_NETA": 93.2,
+      "DESERCIÓN": 5.46,
+      "REPITENCIA": 8.13,
+      "APROBACIÓN": 87.71
+    },
+    {
+      "DEPARTAMENTO": "Magdalena",
+      "COBERTURA_NETA": 93.14,
+      "DESERCIÓN": 3.47,
+      "REPITENCIA": 9.83,
+      "APROBACIÓN": 91.79
+    },
+    {
+      "DEPARTAMENTO": "Santander",
+      "COBERTURA_NETA": 92.94,
+      "DESERCIÓN": 4.08,
+      "REPITENCIA": 7.6,
+      "APROBACIÓN": 89.04
+    },
+    {
+      "DEPARTAMENTO": "Atlántico",
+      "COBERTURA_NETA": 92.31,
+      "DESERCIÓN": 2.17,
+      "REPITENCIA": 6.75,
+      "APROBACIÓN": 92.39
+    },
+    {
+      "DEPARTAMENTO": "Casanare",
+      "COBERTURA_NETA": 91.02,
+      "DESERCIÓN": 3.77,
+      "REPITENCIA": 7.78,
+      "APROBACIÓN": 89.46
+    },
+    {
+      "DEPARTAMENTO": "Sucre",
+      "COBERTURA_NETA": 90.63,
+      "DESERCIÓN": 3.16,
+      "REPITENCIA": 10.09,
+      "APROBACIÓN": 89.26
+    },
+    {
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 90.6,
+      "DESERCIÓN": 2.49,
+      "REPITENCIA": 8.16,
+      "APROBACIÓN": 90.6
+    },
+    {
+      "DEPARTAMENTO": "Meta",
+      "COBERTURA_NETA": 90.29,
+      "DESERCIÓN": 4.52,
+      "REPITENCIA": 9.27,
+      "APROBACIÓN": 88.64
+    },
+    {
+      "DEPARTAMENTO": "Quindio",
+      "COBERTURA_NETA": 90.05,
+      "DESERCIÓN": 4.78,
+      "REPITENCIA": 8.03,
+      "APROBACIÓN": 88.46
+    },
+    {
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 89.85,
+      "DESERCIÓN": 3.78,
+      "REPITENCIA": 9.26,
+      "APROBACIÓN": 88.95
+    },
+    {
+      "DEPARTAMENTO": "Boyacá",
+      "COBERTURA_NETA": 89.59,
+      "DESERCIÓN": 2.38,
+      "REPITENCIA": 7.4,
+      "APROBACIÓN": 91.4
+    },
+    {
+      "DEPARTAMENTO": "Cundinamarca",
+      "COBERTURA_NETA": 89.44,
+      "DESERCIÓN": 3.49,
+      "REPITENCIA": 8.22,
+      "APROBACIÓN": 90.78
+    },
+    {
+      "DEPARTAMENTO": "Arauca",
+      "COBERTURA_NETA": 88.76,
+      "DESERCIÓN": 5.27,
+      "REPITENCIA": 9.14,
+      "APROBACIÓN": 86.86
+    },
+    {
+      "DEPARTAMENTO": "Huila",
+      "COBERTURA_NETA": 87.97,
+      "DESERCIÓN": 4.54,
+      "REPITENCIA": 7.66,
+      "APROBACIÓN": 88.43
+    },
+    {
+      "DEPARTAMENTO": "Norte de Santander",
+      "COBERTURA_NETA": 87.85,
+      "DESERCIÓN": 4.37,
+      "REPITENCIA": 8.39,
+      "APROBACIÓN": 88.25
+    },
+    {
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 85.74,
+      "DESERCIÓN": 2.4,
+      "REPITENCIA": 10.1,
+      "APROBACIÓN": 89.84
+    },
+    {
+      "DEPARTAMENTO": "Córdoba",
+      "COBERTURA_NETA": 85.71,
+      "DESERCIÓN": 3.53,
+      "REPITENCIA": 10.03,
+      "APROBACIÓN": 89.03
+    },
+    {
+      "DEPARTAMENTO": "Cesar",
+      "COBERTURA_NETA": 84.68,
+      "DESERCIÓN": 4.96,
+      "REPITENCIA": 9.43,
+      "APROBACIÓN": 88.13
+    },
+    {
+      "DEPARTAMENTO": "Cauca",
+      "COBERTURA_NETA": 82.53,
+      "DESERCIÓN": 3.19,
+      "REPITENCIA": 9.0,
+      "APROBACIÓN": 90.74
+    },
+    {
+      "DEPARTAMENTO": "Caquetá",
+      "COBERTURA_NETA": 82.14,
+      "DESERCIÓN": 6.65,
+      "REPITENCIA": 10.6,
+      "APROBACIÓN": 86.24
+    },
+    {
+      "DEPARTAMENTO": "Putumayo",
+      "COBERTURA_NETA": 80.01,
+      "DESERCIÓN": 6.49,
+      "REPITENCIA": 8.5,
+      "APROBACIÓN": 87.44
+    },
+    {
+      "DEPARTAMENTO": "Caldas",
+      "COBERTURA_NETA": 77.75,
+      "DESERCIÓN": 3.44,
+      "REPITENCIA": 8.52,
+      "APROBACIÓN": 90.09
+    },
+    {
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 76.31,
+      "DESERCIÓN": 2.46,
+      "REPITENCIA": 9.05,
+      "APROBACIÓN": 92.09
+    },
+    {
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 75.84,
+      "DESERCIÓN": 4.84,
+      "REPITENCIA": 8.84,
+      "APROBACIÓN": 87.62
+    },
+    {
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 74.82,
+      "DESERCIÓN": 5.11,
+      "REPITENCIA": 12.83,
+      "APROBACIÓN": 90.44
+    },
+    {
+      "DEPARTAMENTO": "Guaviare",
+      "COBERTURA_NETA": 74.11,
+      "DESERCIÓN": 4.8,
+      "REPITENCIA": 11.13,
+      "APROBACIÓN": 87.14
+    },
+    {
+      "DEPARTAMENTO": "Guainía",
+      "COBERTURA_NETA": 71.94,
+      "DESERCIÓN": 4.73,
+      "REPITENCIA": 14.82,
+      "APROBACIÓN": 80.36
+    },
+    {
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 68.25,
+      "DESERCIÓN": 6.31,
+      "REPITENCIA": 17.06,
+      "APROBACIÓN": 80.87
+    },
+    {
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 53.45,
+      "DESERCIÓN": 5.34,
+      "REPITENCIA": 16.0,
+      "APROBACIÓN": 87.34
+    }
+  ],
+  "timeseries": [
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 93.85,
+      "DESERCIÓN": 3.97,
+      "REPITENCIA": 4.25
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 90.29,
+      "DESERCIÓN": 3.95,
+      "REPITENCIA": 3.23
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 91.4,
+      "DESERCIÓN": 3.14,
+      "REPITENCIA": 4.43
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 83.79,
+      "DESERCIÓN": 4.29,
+      "REPITENCIA": 0.42
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 77.0,
+      "DESERCIÓN": 6.17,
+      "REPITENCIA": 3.85
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 80.5,
+      "DESERCIÓN": 10.17,
+      "REPITENCIA": 2.53
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 88.33,
+      "DESERCIÓN": 4.24,
+      "REPITENCIA": 2.3
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 82.32,
+      "DESERCIÓN": 5.46,
+      "REPITENCIA": 5.15
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 62.18,
+      "DESERCIÓN": 9.94,
+      "REPITENCIA": 6.15
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 72.98,
+      "DESERCIÓN": 7.33,
+      "REPITENCIA": 3.54
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 92.65,
+      "DESERCIÓN": 4.01,
+      "REPITENCIA": 1.93
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 86.52,
+      "DESERCIÓN": 3.89,
+      "REPITENCIA": 5.17
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 88.87,
+      "DESERCIÓN": 3.39,
+      "REPITENCIA": 2.4
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 80.95,
+      "DESERCIÓN": 2.09,
+      "REPITENCIA": 0.1
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 75.33,
+      "DESERCIÓN": 6.81,
+      "REPITENCIA": 3.44
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 77.73,
+      "DESERCIÓN": 1.84,
+      "REPITENCIA": 1.89
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 88.09,
+      "DESERCIÓN": 4.32,
+      "REPITENCIA": 1.64
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 81.87,
+      "DESERCIÓN": 4.7,
+      "REPITENCIA": 6.3
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 62.32,
+      "DESERCIÓN": 7.62,
+      "REPITENCIA": 5.11
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 66.75,
+      "DESERCIÓN": 5.07,
+      "REPITENCIA": 1.31
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 91.93,
+      "DESERCIÓN": 3.57,
+      "REPITENCIA": 1.57
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 84.07,
+      "DESERCIÓN": 3.68,
+      "REPITENCIA": 6.89
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 89.55,
+      "DESERCIÓN": 2.56,
+      "REPITENCIA": 1.91
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 79.59,
+      "DESERCIÓN": 4.59,
+      "REPITENCIA": 0.15
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 74.73,
+      "DESERCIÓN": 5.27,
+      "REPITENCIA": 2.35
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 76.58,
+      "DESERCIÓN": 2.9,
+      "REPITENCIA": 1.85
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 87.37,
+      "DESERCIÓN": 3.04,
+      "REPITENCIA": 1.3
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 81.83,
+      "DESERCIÓN": 3.29,
+      "REPITENCIA": 4.32
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 62.25,
+      "DESERCIÓN": 8.53,
+      "REPITENCIA": 2.85
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 74.6,
+      "DESERCIÓN": 9.17,
+      "REPITENCIA": 1.25
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 90.85,
+      "DESERCIÓN": 2.33,
+      "REPITENCIA": 2.09
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 80.38,
+      "DESERCIÓN": 2.5,
+      "REPITENCIA": 8.69
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 87.41,
+      "DESERCIÓN": 3.53,
+      "REPITENCIA": 1.96
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 81.14,
+      "DESERCIÓN": 3.53,
+      "REPITENCIA": 0.44
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 74.87,
+      "DESERCIÓN": 4.48,
+      "REPITENCIA": 1.3
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 75.22,
+      "DESERCIÓN": 2.91,
+      "REPITENCIA": 1.6
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 85.34,
+      "DESERCIÓN": 2.16,
+      "REPITENCIA": 0.82
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 82.11,
+      "DESERCIÓN": 3.04,
+      "REPITENCIA": 3.9
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 62.82,
+      "DESERCIÓN": 7.86,
+      "REPITENCIA": 3.2
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 74.51,
+      "DESERCIÓN": 5.09,
+      "REPITENCIA": 1.1
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 89.79,
+      "DESERCIÓN": 3.82,
+      "REPITENCIA": 2.83
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 81.77,
+      "DESERCIÓN": 3.63,
+      "REPITENCIA": 9.91
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 88.69,
+      "DESERCIÓN": 3.01,
+      "REPITENCIA": 1.83
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 80.48,
+      "DESERCIÓN": 4.78,
+      "REPITENCIA": 0.29
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 74.08,
+      "DESERCIÓN": 2.29,
+      "REPITENCIA": 1.42
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 73.51,
+      "DESERCIÓN": 1.23,
+      "REPITENCIA": 1.35
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 84.26,
+      "DESERCIÓN": 2.78,
+      "REPITENCIA": 0.92
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 81.46,
+      "DESERCIÓN": 4.76,
+      "REPITENCIA": 1.65
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 64.08,
+      "DESERCIÓN": 8.08,
+      "REPITENCIA": 3.49
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 76.81,
+      "DESERCIÓN": 9.23,
+      "REPITENCIA": 0.88
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 88.08,
+      "DESERCIÓN": 4.47,
+      "REPITENCIA": 3.02
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 80.26,
+      "DESERCIÓN": 2.08,
+      "REPITENCIA": 3.73
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 89.41,
+      "DESERCIÓN": 2.97,
+      "REPITENCIA": 2.16
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 79.85,
+      "DESERCIÓN": 3.58,
+      "REPITENCIA": 1.94
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 75.59,
+      "DESERCIÓN": 4.62,
+      "REPITENCIA": 4.5
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 71.13,
+      "DESERCIÓN": 1.67,
+      "REPITENCIA": 2.64
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 81.23,
+      "DESERCIÓN": 4.34,
+      "REPITENCIA": 1.29
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 81.35,
+      "DESERCIÓN": 5.06,
+      "REPITENCIA": 6.61
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 64.17,
+      "DESERCIÓN": 6.6,
+      "REPITENCIA": 3.02
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 77.78,
+      "DESERCIÓN": 8.16,
+      "REPITENCIA": 3.26
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 86.0,
+      "DESERCIÓN": 4.15,
+      "REPITENCIA": 6.52
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 79.45,
+      "DESERCIÓN": 1.62,
+      "REPITENCIA": 0.14
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 90.58,
+      "DESERCIÓN": 2.65,
+      "REPITENCIA": 4.4
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 79.19,
+      "DESERCIÓN": 2.38,
+      "REPITENCIA": 2.23
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 75.44,
+      "DESERCIÓN": 2.98,
+      "REPITENCIA": 4.85
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 70.16,
+      "DESERCIÓN": 1.4,
+      "REPITENCIA": 3.17
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 80.21,
+      "DESERCIÓN": 3.71,
+      "REPITENCIA": 1.45
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 82.1,
+      "DESERCIÓN": 4.88,
+      "REPITENCIA": 5.96
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 65.38,
+      "DESERCIÓN": 8.0,
+      "REPITENCIA": 3.16
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 77.93,
+      "DESERCIÓN": 8.65,
+      "REPITENCIA": 11.73
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 94.11,
+      "DESERCIÓN": 3.97,
+      "REPITENCIA": 3.13
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 96.51,
+      "DESERCIÓN": 1.65,
+      "REPITENCIA": 0.33
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 98.6,
+      "DESERCIÓN": 2.75,
+      "REPITENCIA": 3.82
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 80.95,
+      "DESERCIÓN": 3.16,
+      "REPITENCIA": 1.29
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 90.55,
+      "DESERCIÓN": 2.77,
+      "REPITENCIA": 4.75
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 84.54,
+      "DESERCIÓN": 1.34,
+      "REPITENCIA": 2.94
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 80.36,
+      "DESERCIÓN": 3.26,
+      "REPITENCIA": 1.1
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 81.46,
+      "DESERCIÓN": 4.87,
+      "REPITENCIA": 4.12
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 50.79,
+      "DESERCIÓN": 3.88,
+      "REPITENCIA": 2.26
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 53.74,
+      "DESERCIÓN": 7.14,
+      "REPITENCIA": 5.62
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 93.83,
+      "DESERCIÓN": 4.02,
+      "REPITENCIA": 3.19
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 96.3,
+      "DESERCIÓN": 1.6,
+      "REPITENCIA": 2.62
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 99.33,
+      "DESERCIÓN": 2.99,
+      "REPITENCIA": 3.59
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 82.64,
+      "DESERCIÓN": 2.8,
+      "REPITENCIA": 1.08
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 92.86,
+      "DESERCIÓN": 2.51,
+      "REPITENCIA": 3.59
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 83.95,
+      "DESERCIÓN": 1.45,
+      "REPITENCIA": 3.23
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 81.46,
+      "DESERCIÓN": 3.92,
+      "REPITENCIA": 1.17
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 81.4,
+      "DESERCIÓN": 4.17,
+      "REPITENCIA": 7.07
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 52.33,
+      "DESERCIÓN": 3.04,
+      "REPITENCIA": 3.71
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 55.51,
+      "DESERCIÓN": 7.63,
+      "REPITENCIA": 7.82
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 93.43,
+      "DESERCIÓN": 2.3,
+      "REPITENCIA": 6.48
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 95.89,
+      "DESERCIÓN": 0.46,
+      "REPITENCIA": 3.75
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 98.8,
+      "DESERCIÓN": 2.03,
+      "REPITENCIA": 5.92
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 83.97,
+      "DESERCIÓN": 2.04,
+      "REPITENCIA": 7.78
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 94.2,
+      "DESERCIÓN": 2.08,
+      "REPITENCIA": 5.87
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 84.1,
+      "DESERCIÓN": 1.75,
+      "REPITENCIA": 4.68
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 81.96,
+      "DESERCIÓN": 2.73,
+      "REPITENCIA": 5.72
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 81.24,
+      "DESERCIÓN": 2.37,
+      "REPITENCIA": 10.0
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 53.47,
+      "DESERCIÓN": 2.54,
+      "REPITENCIA": 7.15
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 60.14,
+      "DESERCIÓN": 3.07,
+      "REPITENCIA": 14.44
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 92.45,
+      "DESERCIÓN": 4.81,
+      "REPITENCIA": 5.84
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 93.8,
+      "DESERCIÓN": 1.29,
+      "REPITENCIA": 3.29
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 99.3,
+      "DESERCIÓN": 3.69,
+      "REPITENCIA": 4.1
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 87.17,
+      "DESERCIÓN": 4.02,
+      "REPITENCIA": 5.89
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 99.35,
+      "DESERCIÓN": 2.06,
+      "REPITENCIA": 6.09
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 83.43,
+      "DESERCIÓN": 2.23,
+      "REPITENCIA": 6.66
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 81.67,
+      "DESERCIÓN": 4.53,
+      "REPITENCIA": 4.76
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 81.96,
+      "DESERCIÓN": 5.04,
+      "REPITENCIA": 14.76
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 54.72,
+      "DESERCIÓN": 4.18,
+      "REPITENCIA": 3.6
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 65.43,
+      "DESERCIÓN": 5.02,
+      "REPITENCIA": 11.13
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 93.32,
+      "DESERCIÓN": 4.73,
+      "REPITENCIA": 6.49
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 93.37,
+      "DESERCIÓN": 3.46,
+      "REPITENCIA": 5.72
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 100.19,
+      "DESERCIÓN": 4.01,
+      "REPITENCIA": 6.85
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 84.5,
+      "DESERCIÓN": 3.67,
+      "REPITENCIA": 9.05
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 99.25,
+      "DESERCIÓN": 3.65,
+      "REPITENCIA": 9.77
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 80.58,
+      "DESERCIÓN": 2.85,
+      "REPITENCIA": 8.07
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 79.5,
+      "DESERCIÓN": 5.51,
+      "REPITENCIA": 6.33
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 77.24,
+      "DESERCIÓN": 6.11,
+      "REPITENCIA": 10.42
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 55.51,
+      "DESERCIÓN": 4.72,
+      "REPITENCIA": 9.26
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 66.98,
+      "DESERCIÓN": 6.58,
+      "REPITENCIA": 14.24
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 91.89,
+      "DESERCIÓN": 4.83,
+      "REPITENCIA": 9.69
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 92.4,
+      "DESERCIÓN": 2.82,
+      "REPITENCIA": 7.55
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 99.52,
+      "DESERCIÓN": 3.57,
+      "REPITENCIA": 9.27
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 84.91,
+      "DESERCIÓN": 2.32,
+      "REPITENCIA": 10.59
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 98.91,
+      "DESERCIÓN": 3.29,
+      "REPITENCIA": 12.92
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 78.24,
+      "DESERCIÓN": 2.12,
+      "REPITENCIA": 9.94
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 77.9,
+      "DESERCIÓN": 5.22,
+      "REPITENCIA": 9.08
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 75.74,
+      "DESERCIÓN": 5.01,
+      "REPITENCIA": 13.71
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 55.17,
+      "DESERCIÓN": 4.38,
+      "REPITENCIA": 16.56
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 67.63,
+      "DESERCIÓN": 6.8,
+      "REPITENCIA": 17.37
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 89.85,
+      "DESERCIÓN": 3.78,
+      "REPITENCIA": 9.26
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 90.6,
+      "DESERCIÓN": 2.49,
+      "REPITENCIA": 8.16
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 97.75,
+      "DESERCIÓN": 3.4,
+      "REPITENCIA": 8.63
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 85.74,
+      "DESERCIÓN": 2.4,
+      "REPITENCIA": 10.1
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 100.12,
+      "DESERCIÓN": 2.8,
+      "REPITENCIA": 12.89
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 76.31,
+      "DESERCIÓN": 2.46,
+      "REPITENCIA": 9.05
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 75.84,
+      "DESERCIÓN": 4.84,
+      "REPITENCIA": 8.84
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 74.82,
+      "DESERCIÓN": 5.11,
+      "REPITENCIA": 12.83
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 53.45,
+      "DESERCIÓN": 5.34,
+      "REPITENCIA": 16.0
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 68.25,
+      "DESERCIÓN": 6.31,
+      "REPITENCIA": 17.06
+    }
+  ],
+  "all": [
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 93.85,
+      "DESERCIÓN": 3.97,
+      "REPITENCIA": 4.25
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Atlántico",
+      "COBERTURA_NETA": 99.05,
+      "DESERCIÓN": 2.76,
+      "REPITENCIA": 1.82
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 90.29,
+      "DESERCIÓN": 3.95,
+      "REPITENCIA": 3.23
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 91.4,
+      "DESERCIÓN": 3.14,
+      "REPITENCIA": 4.43
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Boyacá",
+      "COBERTURA_NETA": 86.11,
+      "DESERCIÓN": 3.07,
+      "REPITENCIA": 2.62
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Caldas",
+      "COBERTURA_NETA": 86.98,
+      "DESERCIÓN": 4.13,
+      "REPITENCIA": 4.67
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Caquetá",
+      "COBERTURA_NETA": 88.76,
+      "DESERCIÓN": 3.64,
+      "REPITENCIA": 4.17
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Cauca",
+      "COBERTURA_NETA": 86.21,
+      "DESERCIÓN": 2.75,
+      "REPITENCIA": 2.09
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Cesar",
+      "COBERTURA_NETA": 94.57,
+      "DESERCIÓN": 7.07,
+      "REPITENCIA": 1.67
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Córdoba",
+      "COBERTURA_NETA": 94.46,
+      "DESERCIÓN": 4.59,
+      "REPITENCIA": 4.07
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Cundinamarca",
+      "COBERTURA_NETA": 91.93,
+      "DESERCIÓN": 3.6,
+      "REPITENCIA": 2.7
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 83.79,
+      "DESERCIÓN": 4.29,
+      "REPITENCIA": 0.42
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Huila",
+      "COBERTURA_NETA": 90.47,
+      "DESERCIÓN": 4.38,
+      "REPITENCIA": 4.36
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 77.0,
+      "DESERCIÓN": 6.17,
+      "REPITENCIA": 3.85
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Magdalena",
+      "COBERTURA_NETA": 94.32,
+      "DESERCIÓN": 3.63,
+      "REPITENCIA": 1.52
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Meta",
+      "COBERTURA_NETA": 93.59,
+      "DESERCIÓN": 5.55,
+      "REPITENCIA": 1.48
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 80.5,
+      "DESERCIÓN": 10.17,
+      "REPITENCIA": 2.53
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Norte de Santander",
+      "COBERTURA_NETA": 88.96,
+      "DESERCIÓN": 6.87,
+      "REPITENCIA": 2.19
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Quindio",
+      "COBERTURA_NETA": 90.83,
+      "DESERCIÓN": 5.04,
+      "REPITENCIA": 1.36
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Risaralda",
+      "COBERTURA_NETA": 95.43,
+      "DESERCIÓN": 4.79,
+      "REPITENCIA": 1.77
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Santander",
+      "COBERTURA_NETA": 92.4,
+      "DESERCIÓN": 3.68,
+      "REPITENCIA": 2.92
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Sucre",
+      "COBERTURA_NETA": 103.2,
+      "DESERCIÓN": 6.74,
+      "REPITENCIA": 0.46
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Tolima",
+      "COBERTURA_NETA": 88.71,
+      "DESERCIÓN": 4.61,
+      "REPITENCIA": 0.88
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 88.33,
+      "DESERCIÓN": 4.24,
+      "REPITENCIA": 2.3
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Arauca",
+      "COBERTURA_NETA": 74.11,
+      "DESERCIÓN": 2.14,
+      "REPITENCIA": 2.78
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Casanare",
+      "COBERTURA_NETA": 101.05,
+      "DESERCIÓN": 3.88,
+      "REPITENCIA": 3.57
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Putumayo",
+      "COBERTURA_NETA": 80.46,
+      "DESERCIÓN": 4.18,
+      "REPITENCIA": 3.37
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "COBERTURA_NETA": 67.23,
+      "DESERCIÓN": 1.72,
+      "REPITENCIA": 3.63
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 82.32,
+      "DESERCIÓN": 5.46,
+      "REPITENCIA": 5.15
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Guainía",
+      "COBERTURA_NETA": 74.87,
+      "DESERCIÓN": 10.94,
+      "REPITENCIA": 0.77
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Guaviare",
+      "COBERTURA_NETA": 64.02,
+      "DESERCIÓN": 9.02,
+      "REPITENCIA": 2.41
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 62.18,
+      "DESERCIÓN": 9.94,
+      "REPITENCIA": 6.15
+    },
+    {
+      "AÑO": 2011,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 72.98,
+      "DESERCIÓN": 7.33,
+      "REPITENCIA": 3.54
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 92.65,
+      "DESERCIÓN": 4.01,
+      "REPITENCIA": 1.93
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Atlántico",
+      "COBERTURA_NETA": 91.43,
+      "DESERCIÓN": 3.32,
+      "REPITENCIA": 0.8
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 86.52,
+      "DESERCIÓN": 3.89,
+      "REPITENCIA": 5.17
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 88.87,
+      "DESERCIÓN": 3.39,
+      "REPITENCIA": 2.4
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Boyacá",
+      "COBERTURA_NETA": 85.64,
+      "DESERCIÓN": 3.23,
+      "REPITENCIA": 2.0
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Caldas",
+      "COBERTURA_NETA": 84.5,
+      "DESERCIÓN": 4.64,
+      "REPITENCIA": 4.32
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Caquetá",
+      "COBERTURA_NETA": 83.25,
+      "DESERCIÓN": 7.23,
+      "REPITENCIA": 1.16
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Cauca",
+      "COBERTURA_NETA": 83.4,
+      "DESERCIÓN": 4.02,
+      "REPITENCIA": 1.15
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Cesar",
+      "COBERTURA_NETA": 94.01,
+      "DESERCIÓN": 5.13,
+      "REPITENCIA": 1.49
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Córdoba",
+      "COBERTURA_NETA": 93.69,
+      "DESERCIÓN": 2.95,
+      "REPITENCIA": 2.56
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Cundinamarca",
+      "COBERTURA_NETA": 90.97,
+      "DESERCIÓN": 2.94,
+      "REPITENCIA": 2.02
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 80.95,
+      "DESERCIÓN": 2.09,
+      "REPITENCIA": 0.1
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Huila",
+      "COBERTURA_NETA": 89.73,
+      "DESERCIÓN": 5.23,
+      "REPITENCIA": 1.81
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 75.33,
+      "DESERCIÓN": 6.81,
+      "REPITENCIA": 3.44
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Magdalena",
+      "COBERTURA_NETA": 91.64,
+      "DESERCIÓN": 6.22,
+      "REPITENCIA": 1.59
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Meta",
+      "COBERTURA_NETA": 93.29,
+      "DESERCIÓN": 5.85,
+      "REPITENCIA": 1.8
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 77.73,
+      "DESERCIÓN": 1.84,
+      "REPITENCIA": 1.89
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Norte de Santander",
+      "COBERTURA_NETA": 85.93,
+      "DESERCIÓN": 4.89,
+      "REPITENCIA": 2.0
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Quindio",
+      "COBERTURA_NETA": 88.74,
+      "DESERCIÓN": 6.23,
+      "REPITENCIA": 1.23
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Risaralda",
+      "COBERTURA_NETA": 92.77,
+      "DESERCIÓN": 7.04,
+      "REPITENCIA": 1.13
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Santander",
+      "COBERTURA_NETA": 92.11,
+      "DESERCIÓN": 4.67,
+      "REPITENCIA": 2.53
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Sucre",
+      "COBERTURA_NETA": 95.55,
+      "DESERCIÓN": 4.83,
+      "REPITENCIA": 0.65
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Tolima",
+      "COBERTURA_NETA": 87.42,
+      "DESERCIÓN": 5.11,
+      "REPITENCIA": 0.66
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 88.09,
+      "DESERCIÓN": 4.32,
+      "REPITENCIA": 1.64
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Arauca",
+      "COBERTURA_NETA": 72.29,
+      "DESERCIÓN": 4.99,
+      "REPITENCIA": 3.83
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Casanare",
+      "COBERTURA_NETA": 103.88,
+      "DESERCIÓN": 6.52,
+      "REPITENCIA": 1.92
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Putumayo",
+      "COBERTURA_NETA": 78.17,
+      "DESERCIÓN": 6.16,
+      "REPITENCIA": 1.03
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "COBERTURA_NETA": 68.65,
+      "DESERCIÓN": 1.26,
+      "REPITENCIA": 3.9
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 81.87,
+      "DESERCIÓN": 4.7,
+      "REPITENCIA": 6.3
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Guainía",
+      "COBERTURA_NETA": 70.82,
+      "DESERCIÓN": 8.91,
+      "REPITENCIA": 1.75
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Guaviare",
+      "COBERTURA_NETA": 59.18,
+      "DESERCIÓN": 4.86,
+      "REPITENCIA": 1.5
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 62.32,
+      "DESERCIÓN": 7.62,
+      "REPITENCIA": 5.11
+    },
+    {
+      "AÑO": 2012,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 66.75,
+      "DESERCIÓN": 5.07,
+      "REPITENCIA": 1.31
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 91.93,
+      "DESERCIÓN": 3.57,
+      "REPITENCIA": 1.57
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Atlántico",
+      "COBERTURA_NETA": 86.22,
+      "DESERCIÓN": 3.12,
+      "REPITENCIA": 1.66
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 84.07,
+      "DESERCIÓN": 3.68,
+      "REPITENCIA": 6.89
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 89.55,
+      "DESERCIÓN": 2.56,
+      "REPITENCIA": 1.91
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Boyacá",
+      "COBERTURA_NETA": 85.05,
+      "DESERCIÓN": 2.45,
+      "REPITENCIA": 1.69
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Caldas",
+      "COBERTURA_NETA": 82.54,
+      "DESERCIÓN": 4.1,
+      "REPITENCIA": 1.87
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Caquetá",
+      "COBERTURA_NETA": 80.94,
+      "DESERCIÓN": 6.55,
+      "REPITENCIA": 1.32
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Cauca",
+      "COBERTURA_NETA": 84.33,
+      "DESERCIÓN": 3.74,
+      "REPITENCIA": 1.28
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Cesar",
+      "COBERTURA_NETA": 94.8,
+      "DESERCIÓN": 4.53,
+      "REPITENCIA": 1.07
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Córdoba",
+      "COBERTURA_NETA": 93.35,
+      "DESERCIÓN": 2.3,
+      "REPITENCIA": 2.69
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Cundinamarca",
+      "COBERTURA_NETA": 90.28,
+      "DESERCIÓN": 3.17,
+      "REPITENCIA": 1.9
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 79.59,
+      "DESERCIÓN": 4.59,
+      "REPITENCIA": 0.15
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Huila",
+      "COBERTURA_NETA": 89.68,
+      "DESERCIÓN": 4.78,
+      "REPITENCIA": 1.03
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 74.73,
+      "DESERCIÓN": 5.27,
+      "REPITENCIA": 2.35
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Magdalena",
+      "COBERTURA_NETA": 95.83,
+      "DESERCIÓN": 3.19,
+      "REPITENCIA": 1.32
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Meta",
+      "COBERTURA_NETA": 94.76,
+      "DESERCIÓN": 4.49,
+      "REPITENCIA": 1.15
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 76.58,
+      "DESERCIÓN": 2.9,
+      "REPITENCIA": 1.85
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Norte de Santander",
+      "COBERTURA_NETA": 86.37,
+      "DESERCIÓN": 3.66,
+      "REPITENCIA": 1.72
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Quindio",
+      "COBERTURA_NETA": 85.87,
+      "DESERCIÓN": 5.3,
+      "REPITENCIA": 1.21
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Risaralda",
+      "COBERTURA_NETA": 89.81,
+      "DESERCIÓN": 5.17,
+      "REPITENCIA": 0.94
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Santander",
+      "COBERTURA_NETA": 93.28,
+      "DESERCIÓN": 3.6,
+      "REPITENCIA": 2.04
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Sucre",
+      "COBERTURA_NETA": 96.64,
+      "DESERCIÓN": 3.83,
+      "REPITENCIA": 0.7
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Tolima",
+      "COBERTURA_NETA": 86.95,
+      "DESERCIÓN": 4.01,
+      "REPITENCIA": 0.5
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 87.37,
+      "DESERCIÓN": 3.04,
+      "REPITENCIA": 1.3
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Arauca",
+      "COBERTURA_NETA": 70.7,
+      "DESERCIÓN": 4.17,
+      "REPITENCIA": 2.42
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Casanare",
+      "COBERTURA_NETA": 103.69,
+      "DESERCIÓN": 3.67,
+      "REPITENCIA": 1.34
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Putumayo",
+      "COBERTURA_NETA": 76.96,
+      "DESERCIÓN": 5.68,
+      "REPITENCIA": 0.98
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "COBERTURA_NETA": 67.89,
+      "DESERCIÓN": 0.91,
+      "REPITENCIA": 4.73
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 81.83,
+      "DESERCIÓN": 3.29,
+      "REPITENCIA": 4.32
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Guainía",
+      "COBERTURA_NETA": 72.56,
+      "DESERCIÓN": 4.93,
+      "REPITENCIA": 3.59
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Guaviare",
+      "COBERTURA_NETA": 57.32,
+      "DESERCIÓN": 4.02,
+      "REPITENCIA": 1.16
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 62.25,
+      "DESERCIÓN": 8.53,
+      "REPITENCIA": 2.85
+    },
+    {
+      "AÑO": 2013,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 74.6,
+      "DESERCIÓN": 9.17,
+      "REPITENCIA": 1.25
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 90.85,
+      "DESERCIÓN": 2.33,
+      "REPITENCIA": 2.09
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Atlántico",
+      "COBERTURA_NETA": 85.58,
+      "DESERCIÓN": 3.29,
+      "REPITENCIA": 1.82
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 80.38,
+      "DESERCIÓN": 2.5,
+      "REPITENCIA": 8.69
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 87.41,
+      "DESERCIÓN": 3.53,
+      "REPITENCIA": 1.96
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Boyacá",
+      "COBERTURA_NETA": 83.89,
+      "DESERCIÓN": 1.89,
+      "REPITENCIA": 2.24
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Caldas",
+      "COBERTURA_NETA": 80.93,
+      "DESERCIÓN": 2.65,
+      "REPITENCIA": 1.73
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Caquetá",
+      "COBERTURA_NETA": 79.33,
+      "DESERCIÓN": 4.23,
+      "REPITENCIA": 1.18
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Cauca",
+      "COBERTURA_NETA": 84.58,
+      "DESERCIÓN": 4.54,
+      "REPITENCIA": 1.2
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Cesar",
+      "COBERTURA_NETA": 96.14,
+      "DESERCIÓN": 4.95,
+      "REPITENCIA": 1.2
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Córdoba",
+      "COBERTURA_NETA": 93.19,
+      "DESERCIÓN": 2.11,
+      "REPITENCIA": 2.01
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Cundinamarca",
+      "COBERTURA_NETA": 89.79,
+      "DESERCIÓN": 2.6,
+      "REPITENCIA": 1.73
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 81.14,
+      "DESERCIÓN": 3.53,
+      "REPITENCIA": 0.44
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Huila",
+      "COBERTURA_NETA": 88.29,
+      "DESERCIÓN": 3.33,
+      "REPITENCIA": 1.08
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 74.87,
+      "DESERCIÓN": 4.48,
+      "REPITENCIA": 1.3
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Magdalena",
+      "COBERTURA_NETA": 90.1,
+      "DESERCIÓN": 2.96,
+      "REPITENCIA": 0.93
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Meta",
+      "COBERTURA_NETA": 94.72,
+      "DESERCIÓN": 3.02,
+      "REPITENCIA": 1.41
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 75.22,
+      "DESERCIÓN": 2.91,
+      "REPITENCIA": 1.6
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Norte de Santander",
+      "COBERTURA_NETA": 87.15,
+      "DESERCIÓN": 3.3,
+      "REPITENCIA": 1.64
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Quindio",
+      "COBERTURA_NETA": 83.9,
+      "DESERCIÓN": 3.68,
+      "REPITENCIA": 1.41
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Risaralda",
+      "COBERTURA_NETA": 88.02,
+      "DESERCIÓN": 3.67,
+      "REPITENCIA": 1.66
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Santander",
+      "COBERTURA_NETA": 93.52,
+      "DESERCIÓN": 2.82,
+      "REPITENCIA": 1.76
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Sucre",
+      "COBERTURA_NETA": 96.82,
+      "DESERCIÓN": 5.83,
+      "REPITENCIA": 1.2
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Tolima",
+      "COBERTURA_NETA": 86.3,
+      "DESERCIÓN": 4.16,
+      "REPITENCIA": 0.92
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 85.34,
+      "DESERCIÓN": 2.16,
+      "REPITENCIA": 0.82
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Arauca",
+      "COBERTURA_NETA": 71.51,
+      "DESERCIÓN": 5.59,
+      "REPITENCIA": 2.04
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Casanare",
+      "COBERTURA_NETA": 103.24,
+      "DESERCIÓN": 2.27,
+      "REPITENCIA": 1.19
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Putumayo",
+      "COBERTURA_NETA": 77.71,
+      "DESERCIÓN": 4.33,
+      "REPITENCIA": 1.04
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "COBERTURA_NETA": 68.13,
+      "DESERCIÓN": 1.22,
+      "REPITENCIA": 3.72
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 82.11,
+      "DESERCIÓN": 3.04,
+      "REPITENCIA": 3.9
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Guainía",
+      "COBERTURA_NETA": 73.67,
+      "DESERCIÓN": 4.88,
+      "REPITENCIA": 4.64
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Guaviare",
+      "COBERTURA_NETA": 56.23,
+      "DESERCIÓN": 2.57,
+      "REPITENCIA": 1.42
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 62.82,
+      "DESERCIÓN": 7.86,
+      "REPITENCIA": 3.2
+    },
+    {
+      "AÑO": 2014,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 74.51,
+      "DESERCIÓN": 5.09,
+      "REPITENCIA": 1.1
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 89.79,
+      "DESERCIÓN": 3.82,
+      "REPITENCIA": 2.83
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Atlántico",
+      "COBERTURA_NETA": 85.92,
+      "DESERCIÓN": 1.39,
+      "REPITENCIA": 1.69
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 81.77,
+      "DESERCIÓN": 3.63,
+      "REPITENCIA": 9.91
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 88.69,
+      "DESERCIÓN": 3.01,
+      "REPITENCIA": 1.83
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Boyacá",
+      "COBERTURA_NETA": 83.57,
+      "DESERCIÓN": 2.22,
+      "REPITENCIA": 2.27
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Caldas",
+      "COBERTURA_NETA": 78.86,
+      "DESERCIÓN": 3.67,
+      "REPITENCIA": 2.18
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Caquetá",
+      "COBERTURA_NETA": 73.12,
+      "DESERCIÓN": 4.87,
+      "REPITENCIA": 1.26
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Cauca",
+      "COBERTURA_NETA": 82.21,
+      "DESERCIÓN": 2.17,
+      "REPITENCIA": 1.23
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Cesar",
+      "COBERTURA_NETA": 95.39,
+      "DESERCIÓN": 4.38,
+      "REPITENCIA": 1.08
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Córdoba",
+      "COBERTURA_NETA": 89.5,
+      "DESERCIÓN": 2.26,
+      "REPITENCIA": 1.79
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Cundinamarca",
+      "COBERTURA_NETA": 90.47,
+      "DESERCIÓN": 3.27,
+      "REPITENCIA": 2.14
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 80.48,
+      "DESERCIÓN": 4.78,
+      "REPITENCIA": 0.29
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Huila",
+      "COBERTURA_NETA": 87.58,
+      "DESERCIÓN": 5.17,
+      "REPITENCIA": 1.09
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 74.08,
+      "DESERCIÓN": 2.29,
+      "REPITENCIA": 1.42
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Magdalena",
+      "COBERTURA_NETA": 93.43,
+      "DESERCIÓN": 3.54,
+      "REPITENCIA": 1.07
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Meta",
+      "COBERTURA_NETA": 92.14,
+      "DESERCIÓN": 3.3,
+      "REPITENCIA": 1.1
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 73.51,
+      "DESERCIÓN": 1.23,
+      "REPITENCIA": 1.35
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Norte de Santander",
+      "COBERTURA_NETA": 85.84,
+      "DESERCIÓN": 2.66,
+      "REPITENCIA": 1.31
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Quindio",
+      "COBERTURA_NETA": 81.86,
+      "DESERCIÓN": 5.9,
+      "REPITENCIA": 1.38
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Risaralda",
+      "COBERTURA_NETA": 87.94,
+      "DESERCIÓN": 5.05,
+      "REPITENCIA": 1.52
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Santander",
+      "COBERTURA_NETA": 94.37,
+      "DESERCIÓN": 3.17,
+      "REPITENCIA": 1.62
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Sucre",
+      "COBERTURA_NETA": 95.74,
+      "DESERCIÓN": 2.65,
+      "REPITENCIA": 0.61
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Tolima",
+      "COBERTURA_NETA": 85.41,
+      "DESERCIÓN": 3.71,
+      "REPITENCIA": 0.58
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 84.26,
+      "DESERCIÓN": 2.78,
+      "REPITENCIA": 0.92
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Arauca",
+      "COBERTURA_NETA": 72.84,
+      "DESERCIÓN": 3.51,
+      "REPITENCIA": 2.27
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Casanare",
+      "COBERTURA_NETA": 102.39,
+      "DESERCIÓN": 3.75,
+      "REPITENCIA": 1.21
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Putumayo",
+      "COBERTURA_NETA": 76.7,
+      "DESERCIÓN": 5.26,
+      "REPITENCIA": 0.85
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "COBERTURA_NETA": 67.3,
+      "DESERCIÓN": 0.63,
+      "REPITENCIA": 2.16
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 81.46,
+      "DESERCIÓN": 4.76,
+      "REPITENCIA": 1.65
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Guainía",
+      "COBERTURA_NETA": 75.3,
+      "DESERCIÓN": 7.64,
+      "REPITENCIA": 2.12
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Guaviare",
+      "COBERTURA_NETA": 54.9,
+      "DESERCIÓN": 4.7,
+      "REPITENCIA": 1.21
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 64.08,
+      "DESERCIÓN": 8.08,
+      "REPITENCIA": 3.49
+    },
+    {
+      "AÑO": 2015,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 76.81,
+      "DESERCIÓN": 9.23,
+      "REPITENCIA": 0.88
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 88.08,
+      "DESERCIÓN": 4.47,
+      "REPITENCIA": 3.02
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Atlántico",
+      "COBERTURA_NETA": 89.35,
+      "DESERCIÓN": 2.13,
+      "REPITENCIA": 1.23
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 80.26,
+      "DESERCIÓN": 2.08,
+      "REPITENCIA": 3.73
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 89.41,
+      "DESERCIÓN": 2.97,
+      "REPITENCIA": 2.16
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Boyacá",
+      "COBERTURA_NETA": 83.7,
+      "DESERCIÓN": 2.46,
+      "REPITENCIA": 2.18
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Caldas",
+      "COBERTURA_NETA": 77.4,
+      "DESERCIÓN": 4.28,
+      "REPITENCIA": 2.16
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Caquetá",
+      "COBERTURA_NETA": 75.36,
+      "DESERCIÓN": 6.88,
+      "REPITENCIA": 2.2
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Cauca",
+      "COBERTURA_NETA": 83.84,
+      "DESERCIÓN": 2.84,
+      "REPITENCIA": 1.22
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Cesar",
+      "COBERTURA_NETA": 97.44,
+      "DESERCIÓN": 5.07,
+      "REPITENCIA": 1.19
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Córdoba",
+      "COBERTURA_NETA": 90.28,
+      "DESERCIÓN": 3.03,
+      "REPITENCIA": 3.75
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Cundinamarca",
+      "COBERTURA_NETA": 90.9,
+      "DESERCIÓN": 3.68,
+      "REPITENCIA": 2.4
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 79.85,
+      "DESERCIÓN": 3.58,
+      "REPITENCIA": 1.94
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Huila",
+      "COBERTURA_NETA": 85.84,
+      "DESERCIÓN": 5.23,
+      "REPITENCIA": 4.35
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 75.59,
+      "DESERCIÓN": 4.62,
+      "REPITENCIA": 4.5
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Magdalena",
+      "COBERTURA_NETA": 92.33,
+      "DESERCIÓN": 3.2,
+      "REPITENCIA": 5.31
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Meta",
+      "COBERTURA_NETA": 92.28,
+      "DESERCIÓN": 5.35,
+      "REPITENCIA": 0.86
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 71.13,
+      "DESERCIÓN": 1.67,
+      "REPITENCIA": 2.64
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Norte de Santander",
+      "COBERTURA_NETA": 88.51,
+      "DESERCIÓN": 4.84,
+      "REPITENCIA": 1.85
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Quindio",
+      "COBERTURA_NETA": 79.74,
+      "DESERCIÓN": 6.18,
+      "REPITENCIA": 1.13
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Risaralda",
+      "COBERTURA_NETA": 87.16,
+      "DESERCIÓN": 4.67,
+      "REPITENCIA": 1.09
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Santander",
+      "COBERTURA_NETA": 95.0,
+      "DESERCIÓN": 3.97,
+      "REPITENCIA": 2.48
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Sucre",
+      "COBERTURA_NETA": 96.72,
+      "DESERCIÓN": 2.95,
+      "REPITENCIA": 0.47
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Tolima",
+      "COBERTURA_NETA": 84.59,
+      "DESERCIÓN": 3.7,
+      "REPITENCIA": 0.61
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 81.23,
+      "DESERCIÓN": 4.34,
+      "REPITENCIA": 1.29
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Arauca",
+      "COBERTURA_NETA": 73.95,
+      "DESERCIÓN": 3.72,
+      "REPITENCIA": 3.44
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Casanare",
+      "COBERTURA_NETA": 100.18,
+      "DESERCIÓN": 4.21,
+      "REPITENCIA": 4.03
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Putumayo",
+      "COBERTURA_NETA": 76.09,
+      "DESERCIÓN": 7.53,
+      "REPITENCIA": 2.56
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "COBERTURA_NETA": 68.15,
+      "DESERCIÓN": 2.26,
+      "REPITENCIA": 2.47
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 81.35,
+      "DESERCIÓN": 5.06,
+      "REPITENCIA": 6.61
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Guainía",
+      "COBERTURA_NETA": 77.64,
+      "DESERCIÓN": 8.21,
+      "REPITENCIA": 1.9
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Guaviare",
+      "COBERTURA_NETA": 54.83,
+      "DESERCIÓN": 4.7,
+      "REPITENCIA": 2.85
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 64.17,
+      "DESERCIÓN": 6.6,
+      "REPITENCIA": 3.02
+    },
+    {
+      "AÑO": 2016,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 77.78,
+      "DESERCIÓN": 8.16,
+      "REPITENCIA": 3.26
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 86.0,
+      "DESERCIÓN": 4.15,
+      "REPITENCIA": 6.52
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Atlántico",
+      "COBERTURA_NETA": 90.72,
+      "DESERCIÓN": 1.28,
+      "REPITENCIA": 1.11
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 79.45,
+      "DESERCIÓN": 1.62,
+      "REPITENCIA": 0.14
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 90.58,
+      "DESERCIÓN": 2.65,
+      "REPITENCIA": 4.4
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Boyacá",
+      "COBERTURA_NETA": 83.48,
+      "DESERCIÓN": 2.15,
+      "REPITENCIA": 2.3
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Caldas",
+      "COBERTURA_NETA": 75.72,
+      "DESERCIÓN": 3.47,
+      "REPITENCIA": 3.08
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Caquetá",
+      "COBERTURA_NETA": 74.37,
+      "DESERCIÓN": 6.73,
+      "REPITENCIA": 3.43
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Cauca",
+      "COBERTURA_NETA": 83.32,
+      "DESERCIÓN": 2.76,
+      "REPITENCIA": 1.26
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Cesar",
+      "COBERTURA_NETA": 98.92,
+      "DESERCIÓN": 3.98,
+      "REPITENCIA": 0.92
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Córdoba",
+      "COBERTURA_NETA": 88.72,
+      "DESERCIÓN": 3.03,
+      "REPITENCIA": 3.29
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Cundinamarca",
+      "COBERTURA_NETA": 91.56,
+      "DESERCIÓN": 2.57,
+      "REPITENCIA": 2.43
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 79.19,
+      "DESERCIÓN": 2.38,
+      "REPITENCIA": 2.23
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Huila",
+      "COBERTURA_NETA": 85.17,
+      "DESERCIÓN": 4.14,
+      "REPITENCIA": 3.32
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 75.44,
+      "DESERCIÓN": 2.98,
+      "REPITENCIA": 4.85
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Magdalena",
+      "COBERTURA_NETA": 93.3,
+      "DESERCIÓN": 2.57,
+      "REPITENCIA": 2.52
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Meta",
+      "COBERTURA_NETA": 90.88,
+      "DESERCIÓN": 4.2,
+      "REPITENCIA": 1.04
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 70.16,
+      "DESERCIÓN": 1.4,
+      "REPITENCIA": 3.17
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Norte de Santander",
+      "COBERTURA_NETA": 90.3,
+      "DESERCIÓN": 3.6,
+      "REPITENCIA": 1.24
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Quindio",
+      "COBERTURA_NETA": 77.69,
+      "DESERCIÓN": 4.92,
+      "REPITENCIA": 0.8
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Risaralda",
+      "COBERTURA_NETA": 86.62,
+      "DESERCIÓN": 4.82,
+      "REPITENCIA": 2.4
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Santander",
+      "COBERTURA_NETA": 96.33,
+      "DESERCIÓN": 2.67,
+      "REPITENCIA": 2.41
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Sucre",
+      "COBERTURA_NETA": 97.2,
+      "DESERCIÓN": 2.7,
+      "REPITENCIA": 1.06
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Tolima",
+      "COBERTURA_NETA": 83.91,
+      "DESERCIÓN": 2.93,
+      "REPITENCIA": 0.73
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 80.21,
+      "DESERCIÓN": 3.71,
+      "REPITENCIA": 1.45
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Arauca",
+      "COBERTURA_NETA": 75.02,
+      "DESERCIÓN": 3.63,
+      "REPITENCIA": 7.17
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Casanare",
+      "COBERTURA_NETA": 97.72,
+      "DESERCIÓN": 2.68,
+      "REPITENCIA": 2.09
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Putumayo",
+      "COBERTURA_NETA": 75.24,
+      "DESERCIÓN": 5.74,
+      "REPITENCIA": 2.65
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "COBERTURA_NETA": 67.64,
+      "DESERCIÓN": 1.15,
+      "REPITENCIA": 2.04
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 82.1,
+      "DESERCIÓN": 4.88,
+      "REPITENCIA": 5.96
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Guainía",
+      "COBERTURA_NETA": 79.98,
+      "DESERCIÓN": 7.68,
+      "REPITENCIA": 3.13
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Guaviare",
+      "COBERTURA_NETA": 55.02,
+      "DESERCIÓN": 4.34,
+      "REPITENCIA": 2.86
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 65.38,
+      "DESERCIÓN": 8.0,
+      "REPITENCIA": 3.16
+    },
+    {
+      "AÑO": 2017,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 77.93,
+      "DESERCIÓN": 8.65,
+      "REPITENCIA": 11.73
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 94.11,
+      "DESERCIÓN": 3.97,
+      "REPITENCIA": 3.13
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Atlántico",
+      "COBERTURA_NETA": 91.34,
+      "DESERCIÓN": 1.55,
+      "REPITENCIA": 0.74
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 96.51,
+      "DESERCIÓN": 1.65,
+      "REPITENCIA": 0.33
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 98.6,
+      "DESERCIÓN": 2.75,
+      "REPITENCIA": 3.82
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Boyacá",
+      "COBERTURA_NETA": 96.54,
+      "DESERCIÓN": 2.07,
+      "REPITENCIA": 1.69
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Caldas",
+      "COBERTURA_NETA": 87.08,
+      "DESERCIÓN": 2.96,
+      "REPITENCIA": 3.35
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Caquetá",
+      "COBERTURA_NETA": 92.04,
+      "DESERCIÓN": 5.5,
+      "REPITENCIA": 2.52
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Cauca",
+      "COBERTURA_NETA": 83.17,
+      "DESERCIÓN": 2.58,
+      "REPITENCIA": 0.97
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Cesar",
+      "COBERTURA_NETA": 90.73,
+      "DESERCIÓN": 3.98,
+      "REPITENCIA": 1.24
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Córdoba",
+      "COBERTURA_NETA": 94.72,
+      "DESERCIÓN": 2.23,
+      "REPITENCIA": 2.89
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Cundinamarca",
+      "COBERTURA_NETA": 97.91,
+      "DESERCIÓN": 2.89,
+      "REPITENCIA": 2.11
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 80.95,
+      "DESERCIÓN": 3.16,
+      "REPITENCIA": 1.29
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Huila",
+      "COBERTURA_NETA": 94.28,
+      "DESERCIÓN": 4.21,
+      "REPITENCIA": 2.63
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 90.55,
+      "DESERCIÓN": 2.77,
+      "REPITENCIA": 4.75
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Magdalena",
+      "COBERTURA_NETA": 97.69,
+      "DESERCIÓN": 3.26,
+      "REPITENCIA": 1.7
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Meta",
+      "COBERTURA_NETA": 92.51,
+      "DESERCIÓN": 4.47,
+      "REPITENCIA": 0.89
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 84.54,
+      "DESERCIÓN": 1.34,
+      "REPITENCIA": 2.94
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Norte de Santander",
+      "COBERTURA_NETA": 91.62,
+      "DESERCIÓN": 3.95,
+      "REPITENCIA": 1.41
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Quindio",
+      "COBERTURA_NETA": 98.35,
+      "DESERCIÓN": 4.17,
+      "REPITENCIA": 1.08
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Risaralda",
+      "COBERTURA_NETA": 98.4,
+      "DESERCIÓN": 4.23,
+      "REPITENCIA": 0.76
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Santander",
+      "COBERTURA_NETA": 96.06,
+      "DESERCIÓN": 3.2,
+      "REPITENCIA": 1.73
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Sucre",
+      "COBERTURA_NETA": 95.99,
+      "DESERCIÓN": 2.78,
+      "REPITENCIA": 1.28
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Tolima",
+      "COBERTURA_NETA": 98.54,
+      "DESERCIÓN": 3.02,
+      "REPITENCIA": 0.84
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 80.36,
+      "DESERCIÓN": 3.26,
+      "REPITENCIA": 1.1
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Arauca",
+      "COBERTURA_NETA": 94.93,
+      "DESERCIÓN": 2.63,
+      "REPITENCIA": 4.46
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Casanare",
+      "COBERTURA_NETA": 93.05,
+      "DESERCIÓN": 2.69,
+      "REPITENCIA": 2.0
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Putumayo",
+      "COBERTURA_NETA": 84.28,
+      "DESERCIÓN": 5.21,
+      "REPITENCIA": 2.15
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "COBERTURA_NETA": 93.4,
+      "DESERCIÓN": 1.97,
+      "REPITENCIA": 2.31
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 81.46,
+      "DESERCIÓN": 4.87,
+      "REPITENCIA": 4.12
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Guainía",
+      "COBERTURA_NETA": 62.28,
+      "DESERCIÓN": 7.14,
+      "REPITENCIA": 5.08
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Guaviare",
+      "COBERTURA_NETA": 84.61,
+      "DESERCIÓN": 3.36,
+      "REPITENCIA": 3.46
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 50.79,
+      "DESERCIÓN": 3.88,
+      "REPITENCIA": 2.26
+    },
+    {
+      "AÑO": 2018,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 53.74,
+      "DESERCIÓN": 7.14,
+      "REPITENCIA": 5.62
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 93.83,
+      "DESERCIÓN": 4.02,
+      "REPITENCIA": 3.19
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Atlántico",
+      "COBERTURA_NETA": 91.69,
+      "DESERCIÓN": 1.26,
+      "REPITENCIA": 1.0
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 96.3,
+      "DESERCIÓN": 1.6,
+      "REPITENCIA": 2.62
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 99.33,
+      "DESERCIÓN": 2.99,
+      "REPITENCIA": 3.59
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Boyacá",
+      "COBERTURA_NETA": 96.51,
+      "DESERCIÓN": 2.05,
+      "REPITENCIA": 1.92
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Caldas",
+      "COBERTURA_NETA": 85.88,
+      "DESERCIÓN": 3.31,
+      "REPITENCIA": 3.67
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Caquetá",
+      "COBERTURA_NETA": 90.49,
+      "DESERCIÓN": 5.32,
+      "REPITENCIA": 2.6
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Cauca",
+      "COBERTURA_NETA": 84.39,
+      "DESERCIÓN": 2.78,
+      "REPITENCIA": 1.3
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Cesar",
+      "COBERTURA_NETA": 90.57,
+      "DESERCIÓN": 4.11,
+      "REPITENCIA": 1.07
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Córdoba",
+      "COBERTURA_NETA": 94.16,
+      "DESERCIÓN": 2.64,
+      "REPITENCIA": 3.42
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Cundinamarca",
+      "COBERTURA_NETA": 95.86,
+      "DESERCIÓN": 3.02,
+      "REPITENCIA": 1.74
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 82.64,
+      "DESERCIÓN": 2.8,
+      "REPITENCIA": 1.08
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Huila",
+      "COBERTURA_NETA": 94.12,
+      "DESERCIÓN": 4.48,
+      "REPITENCIA": 2.84
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 92.86,
+      "DESERCIÓN": 2.51,
+      "REPITENCIA": 3.59
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Magdalena",
+      "COBERTURA_NETA": 97.27,
+      "DESERCIÓN": 3.5,
+      "REPITENCIA": 1.53
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Meta",
+      "COBERTURA_NETA": 93.51,
+      "DESERCIÓN": 3.97,
+      "REPITENCIA": 1.03
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 83.95,
+      "DESERCIÓN": 1.45,
+      "REPITENCIA": 3.23
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Norte de Santander",
+      "COBERTURA_NETA": 92.18,
+      "DESERCIÓN": 3.25,
+      "REPITENCIA": 1.37
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Quindio",
+      "COBERTURA_NETA": 96.73,
+      "DESERCIÓN": 3.94,
+      "REPITENCIA": 1.04
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Risaralda",
+      "COBERTURA_NETA": 98.88,
+      "DESERCIÓN": 4.99,
+      "REPITENCIA": 1.16
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Santander",
+      "COBERTURA_NETA": 96.2,
+      "DESERCIÓN": 3.01,
+      "REPITENCIA": 1.91
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Sucre",
+      "COBERTURA_NETA": 95.88,
+      "DESERCIÓN": 3.0,
+      "REPITENCIA": 1.17
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Tolima",
+      "COBERTURA_NETA": 99.1,
+      "DESERCIÓN": 3.7,
+      "REPITENCIA": 0.75
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 81.46,
+      "DESERCIÓN": 3.92,
+      "REPITENCIA": 1.17
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Arauca",
+      "COBERTURA_NETA": 93.06,
+      "DESERCIÓN": 4.02,
+      "REPITENCIA": 3.82
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Casanare",
+      "COBERTURA_NETA": 93.43,
+      "DESERCIÓN": 3.01,
+      "REPITENCIA": 1.9
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Putumayo",
+      "COBERTURA_NETA": 84.83,
+      "DESERCIÓN": 5.39,
+      "REPITENCIA": 1.89
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "COBERTURA_NETA": 91.87,
+      "DESERCIÓN": 2.08,
+      "REPITENCIA": 3.86
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 81.4,
+      "DESERCIÓN": 4.17,
+      "REPITENCIA": 7.07
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Guainía",
+      "COBERTURA_NETA": 66.26,
+      "DESERCIÓN": 5.7,
+      "REPITENCIA": 7.31
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Guaviare",
+      "COBERTURA_NETA": 83.09,
+      "DESERCIÓN": 4.47,
+      "REPITENCIA": 1.64
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 52.33,
+      "DESERCIÓN": 3.04,
+      "REPITENCIA": 3.71
+    },
+    {
+      "AÑO": 2019,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 55.51,
+      "DESERCIÓN": 7.63,
+      "REPITENCIA": 7.82
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 93.43,
+      "DESERCIÓN": 2.3,
+      "REPITENCIA": 6.48
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Atlántico",
+      "COBERTURA_NETA": 92.38,
+      "DESERCIÓN": 1.41,
+      "REPITENCIA": 4.27
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 95.89,
+      "DESERCIÓN": 0.46,
+      "REPITENCIA": 3.75
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 98.8,
+      "DESERCIÓN": 2.03,
+      "REPITENCIA": 5.92
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Boyacá",
+      "COBERTURA_NETA": 94.84,
+      "DESERCIÓN": 1.7,
+      "REPITENCIA": 5.42
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Caldas",
+      "COBERTURA_NETA": 84.57,
+      "DESERCIÓN": 2.35,
+      "REPITENCIA": 6.48
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Caquetá",
+      "COBERTURA_NETA": 88.91,
+      "DESERCIÓN": 6.28,
+      "REPITENCIA": 4.19
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Cauca",
+      "COBERTURA_NETA": 84.97,
+      "DESERCIÓN": 1.59,
+      "REPITENCIA": 5.87
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Cesar",
+      "COBERTURA_NETA": 89.73,
+      "DESERCIÓN": 8.58,
+      "REPITENCIA": 5.24
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Córdoba",
+      "COBERTURA_NETA": 93.21,
+      "DESERCIÓN": 2.54,
+      "REPITENCIA": 5.84
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Cundinamarca",
+      "COBERTURA_NETA": 93.42,
+      "DESERCIÓN": 2.78,
+      "REPITENCIA": 5.29
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 83.97,
+      "DESERCIÓN": 2.04,
+      "REPITENCIA": 7.78
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Huila",
+      "COBERTURA_NETA": 93.38,
+      "DESERCIÓN": 2.49,
+      "REPITENCIA": 6.85
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 94.2,
+      "DESERCIÓN": 2.08,
+      "REPITENCIA": 5.87
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Magdalena",
+      "COBERTURA_NETA": 95.83,
+      "DESERCIÓN": 3.87,
+      "REPITENCIA": 3.8
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Meta",
+      "COBERTURA_NETA": 93.83,
+      "DESERCIÓN": 2.47,
+      "REPITENCIA": 4.32
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 84.1,
+      "DESERCIÓN": 1.75,
+      "REPITENCIA": 4.68
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Norte de Santander",
+      "COBERTURA_NETA": 90.16,
+      "DESERCIÓN": 3.94,
+      "REPITENCIA": 5.51
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Quindio",
+      "COBERTURA_NETA": 95.93,
+      "DESERCIÓN": 3.07,
+      "REPITENCIA": 6.06
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Risaralda",
+      "COBERTURA_NETA": 98.64,
+      "DESERCIÓN": 2.89,
+      "REPITENCIA": 5.41
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Santander",
+      "COBERTURA_NETA": 95.83,
+      "DESERCIÓN": 1.85,
+      "REPITENCIA": 6.26
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Sucre",
+      "COBERTURA_NETA": 95.17,
+      "DESERCIÓN": 2.0,
+      "REPITENCIA": 7.51
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Tolima",
+      "COBERTURA_NETA": 99.27,
+      "DESERCIÓN": 3.29,
+      "REPITENCIA": 5.13
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 81.96,
+      "DESERCIÓN": 2.73,
+      "REPITENCIA": 5.72
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Arauca",
+      "COBERTURA_NETA": 92.81,
+      "DESERCIÓN": 3.93,
+      "REPITENCIA": 3.9
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Casanare",
+      "COBERTURA_NETA": 94.35,
+      "DESERCIÓN": 2.11,
+      "REPITENCIA": 5.43
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Putumayo",
+      "COBERTURA_NETA": 84.41,
+      "DESERCIÓN": 7.42,
+      "REPITENCIA": 6.81
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "COBERTURA_NETA": 92.67,
+      "DESERCIÓN": 1.41,
+      "REPITENCIA": 8.67
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 81.24,
+      "DESERCIÓN": 2.37,
+      "REPITENCIA": 10.0
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Guainía",
+      "COBERTURA_NETA": 70.51,
+      "DESERCIÓN": 3.53,
+      "REPITENCIA": 10.5
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Guaviare",
+      "COBERTURA_NETA": 83.06,
+      "DESERCIÓN": 4.41,
+      "REPITENCIA": 6.04
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 53.47,
+      "DESERCIÓN": 2.54,
+      "REPITENCIA": 7.15
+    },
+    {
+      "AÑO": 2020,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 60.14,
+      "DESERCIÓN": 3.07,
+      "REPITENCIA": 14.44
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 92.45,
+      "DESERCIÓN": 4.81,
+      "REPITENCIA": 5.84
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Atlántico",
+      "COBERTURA_NETA": 93.55,
+      "DESERCIÓN": 1.67,
+      "REPITENCIA": 3.82
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 93.8,
+      "DESERCIÓN": 1.29,
+      "REPITENCIA": 3.29
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 99.3,
+      "DESERCIÓN": 3.69,
+      "REPITENCIA": 4.1
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Boyacá",
+      "COBERTURA_NETA": 95.48,
+      "DESERCIÓN": 2.97,
+      "REPITENCIA": 5.91
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Caldas",
+      "COBERTURA_NETA": 84.25,
+      "DESERCIÓN": 3.1,
+      "REPITENCIA": 4.46
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Caquetá",
+      "COBERTURA_NETA": 86.7,
+      "DESERCIÓN": 8.5,
+      "REPITENCIA": 7.59
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Cauca",
+      "COBERTURA_NETA": 86.28,
+      "DESERCIÓN": 3.03,
+      "REPITENCIA": 5.98
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Cesar",
+      "COBERTURA_NETA": 89.04,
+      "DESERCIÓN": 2.43,
+      "REPITENCIA": 6.28
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Córdoba",
+      "COBERTURA_NETA": 92.95,
+      "DESERCIÓN": 2.95,
+      "REPITENCIA": 4.81
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Cundinamarca",
+      "COBERTURA_NETA": 90.58,
+      "DESERCIÓN": 4.06,
+      "REPITENCIA": 5.2
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 87.17,
+      "DESERCIÓN": 4.02,
+      "REPITENCIA": 5.89
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Huila",
+      "COBERTURA_NETA": 93.73,
+      "DESERCIÓN": 6.18,
+      "REPITENCIA": 5.23
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 99.35,
+      "DESERCIÓN": 2.06,
+      "REPITENCIA": 6.09
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Magdalena",
+      "COBERTURA_NETA": 96.9,
+      "DESERCIÓN": 2.07,
+      "REPITENCIA": 3.09
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Meta",
+      "COBERTURA_NETA": 94.28,
+      "DESERCIÓN": 4.4,
+      "REPITENCIA": 6.19
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 83.43,
+      "DESERCIÓN": 2.23,
+      "REPITENCIA": 6.66
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Norte de Santander",
+      "COBERTURA_NETA": 92.0,
+      "DESERCIÓN": 4.1,
+      "REPITENCIA": 3.9
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Quindio",
+      "COBERTURA_NETA": 94.64,
+      "DESERCIÓN": 6.2,
+      "REPITENCIA": 4.44
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Risaralda",
+      "COBERTURA_NETA": 99.07,
+      "DESERCIÓN": 4.65,
+      "REPITENCIA": 4.33
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Santander",
+      "COBERTURA_NETA": 95.89,
+      "DESERCIÓN": 4.0,
+      "REPITENCIA": 4.47
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Sucre",
+      "COBERTURA_NETA": 95.46,
+      "DESERCIÓN": 2.51,
+      "REPITENCIA": 3.97
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Tolima",
+      "COBERTURA_NETA": 101.13,
+      "DESERCIÓN": 5.03,
+      "REPITENCIA": 4.2
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 81.67,
+      "DESERCIÓN": 4.53,
+      "REPITENCIA": 4.76
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Arauca",
+      "COBERTURA_NETA": 93.88,
+      "DESERCIÓN": 3.31,
+      "REPITENCIA": 6.67
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Casanare",
+      "COBERTURA_NETA": 94.63,
+      "DESERCIÓN": 4.61,
+      "REPITENCIA": 6.26
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Putumayo",
+      "COBERTURA_NETA": 84.57,
+      "DESERCIÓN": 10.28,
+      "REPITENCIA": 4.87
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "COBERTURA_NETA": 90.82,
+      "DESERCIÓN": 0.71,
+      "REPITENCIA": 4.15
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 81.96,
+      "DESERCIÓN": 5.04,
+      "REPITENCIA": 14.76
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Guainía",
+      "COBERTURA_NETA": 77.96,
+      "DESERCIÓN": 8.67,
+      "REPITENCIA": 10.23
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Guaviare",
+      "COBERTURA_NETA": 84.79,
+      "DESERCIÓN": 7.29,
+      "REPITENCIA": 7.8
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 54.72,
+      "DESERCIÓN": 4.18,
+      "REPITENCIA": 3.6
+    },
+    {
+      "AÑO": 2021,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 65.43,
+      "DESERCIÓN": 5.02,
+      "REPITENCIA": 11.13
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 93.32,
+      "DESERCIÓN": 4.73,
+      "REPITENCIA": 6.49
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Atlántico",
+      "COBERTURA_NETA": 94.01,
+      "DESERCIÓN": 2.64,
+      "REPITENCIA": 5.91
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 93.37,
+      "DESERCIÓN": 3.46,
+      "REPITENCIA": 5.72
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 100.19,
+      "DESERCIÓN": 4.01,
+      "REPITENCIA": 6.85
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Boyacá",
+      "COBERTURA_NETA": 93.87,
+      "DESERCIÓN": 2.9,
+      "REPITENCIA": 7.61
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Caldas",
+      "COBERTURA_NETA": 83.21,
+      "DESERCIÓN": 3.81,
+      "REPITENCIA": 6.0
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Caquetá",
+      "COBERTURA_NETA": 83.48,
+      "DESERCIÓN": 6.37,
+      "REPITENCIA": 7.49
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Cauca",
+      "COBERTURA_NETA": 85.73,
+      "DESERCIÓN": 3.96,
+      "REPITENCIA": 7.45
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Cesar",
+      "COBERTURA_NETA": 87.77,
+      "DESERCIÓN": 6.02,
+      "REPITENCIA": 7.44
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Córdoba",
+      "COBERTURA_NETA": 90.66,
+      "DESERCIÓN": 4.09,
+      "REPITENCIA": 7.52
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Cundinamarca",
+      "COBERTURA_NETA": 96.16,
+      "DESERCIÓN": 3.86,
+      "REPITENCIA": 6.81
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 84.5,
+      "DESERCIÓN": 3.67,
+      "REPITENCIA": 9.05
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Huila",
+      "COBERTURA_NETA": 91.77,
+      "DESERCIÓN": 5.13,
+      "REPITENCIA": 6.96
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 99.25,
+      "DESERCIÓN": 3.65,
+      "REPITENCIA": 9.77
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Magdalena",
+      "COBERTURA_NETA": 95.92,
+      "DESERCIÓN": 4.9,
+      "REPITENCIA": 5.02
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Meta",
+      "COBERTURA_NETA": 93.17,
+      "DESERCIÓN": 5.18,
+      "REPITENCIA": 7.47
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 80.58,
+      "DESERCIÓN": 2.85,
+      "REPITENCIA": 8.07
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Norte de Santander",
+      "COBERTURA_NETA": 91.81,
+      "DESERCIÓN": 4.49,
+      "REPITENCIA": 6.03
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Quindio",
+      "COBERTURA_NETA": 95.24,
+      "DESERCIÓN": 5.97,
+      "REPITENCIA": 4.86
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Risaralda",
+      "COBERTURA_NETA": 97.52,
+      "DESERCIÓN": 6.42,
+      "REPITENCIA": 5.7
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Santander",
+      "COBERTURA_NETA": 96.49,
+      "DESERCIÓN": 4.93,
+      "REPITENCIA": 6.43
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Sucre",
+      "COBERTURA_NETA": 94.41,
+      "DESERCIÓN": 3.9,
+      "REPITENCIA": 6.12
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Tolima",
+      "COBERTURA_NETA": 100.26,
+      "DESERCIÓN": 4.71,
+      "REPITENCIA": 6.21
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 79.5,
+      "DESERCIÓN": 5.51,
+      "REPITENCIA": 6.33
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Arauca",
+      "COBERTURA_NETA": 92.67,
+      "DESERCIÓN": 6.98,
+      "REPITENCIA": 6.81
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Casanare",
+      "COBERTURA_NETA": 93.37,
+      "DESERCIÓN": 3.98,
+      "REPITENCIA": 7.03
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Putumayo",
+      "COBERTURA_NETA": 81.81,
+      "DESERCIÓN": 6.54,
+      "REPITENCIA": 5.76
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "COBERTURA_NETA": 96.89,
+      "DESERCIÓN": 3.22,
+      "REPITENCIA": 7.98
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 77.24,
+      "DESERCIÓN": 6.11,
+      "REPITENCIA": 10.42
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Guainía",
+      "COBERTURA_NETA": 67.6,
+      "DESERCIÓN": 7.08,
+      "REPITENCIA": 13.02
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Guaviare",
+      "COBERTURA_NETA": 80.13,
+      "DESERCIÓN": 3.67,
+      "REPITENCIA": 8.39
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 55.51,
+      "DESERCIÓN": 4.72,
+      "REPITENCIA": 9.26
+    },
+    {
+      "AÑO": 2022,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 66.98,
+      "DESERCIÓN": 6.58,
+      "REPITENCIA": 14.24
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 91.89,
+      "DESERCIÓN": 4.83,
+      "REPITENCIA": 9.69
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Atlántico",
+      "COBERTURA_NETA": 93.63,
+      "DESERCIÓN": 2.34,
+      "REPITENCIA": 6.98
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 92.4,
+      "DESERCIÓN": 2.82,
+      "REPITENCIA": 7.55
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 99.52,
+      "DESERCIÓN": 3.57,
+      "REPITENCIA": 9.27
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Boyacá",
+      "COBERTURA_NETA": 91.92,
+      "DESERCIÓN": 2.43,
+      "REPITENCIA": 8.0
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Caldas",
+      "COBERTURA_NETA": 80.69,
+      "DESERCIÓN": 3.35,
+      "REPITENCIA": 8.66
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Caquetá",
+      "COBERTURA_NETA": 83.18,
+      "DESERCIÓN": 6.89,
+      "REPITENCIA": 11.36
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Cauca",
+      "COBERTURA_NETA": 84.65,
+      "DESERCIÓN": 3.59,
+      "REPITENCIA": 9.22
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Cesar",
+      "COBERTURA_NETA": 86.7,
+      "DESERCIÓN": 4.79,
+      "REPITENCIA": 9.53
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Córdoba",
+      "COBERTURA_NETA": 88.8,
+      "DESERCIÓN": 3.52,
+      "REPITENCIA": 10.52
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Cundinamarca",
+      "COBERTURA_NETA": 93.32,
+      "DESERCIÓN": 3.77,
+      "REPITENCIA": 8.29
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 84.91,
+      "DESERCIÓN": 2.32,
+      "REPITENCIA": 10.59
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Huila",
+      "COBERTURA_NETA": 90.41,
+      "DESERCIÓN": 4.57,
+      "REPITENCIA": 8.43
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 98.91,
+      "DESERCIÓN": 3.29,
+      "REPITENCIA": 12.92
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Magdalena",
+      "COBERTURA_NETA": 95.08,
+      "DESERCIÓN": 3.86,
+      "REPITENCIA": 10.4
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Meta",
+      "COBERTURA_NETA": 92.37,
+      "DESERCIÓN": 4.67,
+      "REPITENCIA": 9.69
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 78.24,
+      "DESERCIÓN": 2.12,
+      "REPITENCIA": 9.94
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Norte de Santander",
+      "COBERTURA_NETA": 91.11,
+      "DESERCIÓN": 4.79,
+      "REPITENCIA": 8.19
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Quindio",
+      "COBERTURA_NETA": 92.73,
+      "DESERCIÓN": 5.52,
+      "REPITENCIA": 8.09
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Risaralda",
+      "COBERTURA_NETA": 95.61,
+      "DESERCIÓN": 5.6,
+      "REPITENCIA": 8.44
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Santander",
+      "COBERTURA_NETA": 95.64,
+      "DESERCIÓN": 4.2,
+      "REPITENCIA": 7.99
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Sucre",
+      "COBERTURA_NETA": 92.44,
+      "DESERCIÓN": 3.04,
+      "REPITENCIA": 11.56
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Tolima",
+      "COBERTURA_NETA": 99.04,
+      "DESERCIÓN": 4.2,
+      "REPITENCIA": 8.61
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 77.9,
+      "DESERCIÓN": 5.22,
+      "REPITENCIA": 9.08
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Arauca",
+      "COBERTURA_NETA": 90.92,
+      "DESERCIÓN": 4.54,
+      "REPITENCIA": 9.72
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Casanare",
+      "COBERTURA_NETA": 92.79,
+      "DESERCIÓN": 3.84,
+      "REPITENCIA": 7.93
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Putumayo",
+      "COBERTURA_NETA": 81.98,
+      "DESERCIÓN": 5.72,
+      "REPITENCIA": 9.82
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "COBERTURA_NETA": 95.97,
+      "DESERCIÓN": 3.05,
+      "REPITENCIA": 11.3
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 75.74,
+      "DESERCIÓN": 5.01,
+      "REPITENCIA": 13.71
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Guainía",
+      "COBERTURA_NETA": 71.55,
+      "DESERCIÓN": 6.03,
+      "REPITENCIA": 15.69
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Guaviare",
+      "COBERTURA_NETA": 77.55,
+      "DESERCIÓN": 5.62,
+      "REPITENCIA": 10.78
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 55.17,
+      "DESERCIÓN": 4.38,
+      "REPITENCIA": 16.56
+    },
+    {
+      "AÑO": 2023,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 67.63,
+      "DESERCIÓN": 6.8,
+      "REPITENCIA": 17.37
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Antioquia",
+      "COBERTURA_NETA": 89.85,
+      "DESERCIÓN": 3.78,
+      "REPITENCIA": 9.26
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Atlántico",
+      "COBERTURA_NETA": 92.31,
+      "DESERCIÓN": 2.17,
+      "REPITENCIA": 6.75
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Bogotá, D.C.",
+      "COBERTURA_NETA": 90.6,
+      "DESERCIÓN": 2.49,
+      "REPITENCIA": 8.16
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Bolívar",
+      "COBERTURA_NETA": 97.75,
+      "DESERCIÓN": 3.4,
+      "REPITENCIA": 8.63
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Boyacá",
+      "COBERTURA_NETA": 89.59,
+      "DESERCIÓN": 2.38,
+      "REPITENCIA": 7.4
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Caldas",
+      "COBERTURA_NETA": 77.75,
+      "DESERCIÓN": 3.44,
+      "REPITENCIA": 8.52
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Caquetá",
+      "COBERTURA_NETA": 82.14,
+      "DESERCIÓN": 6.65,
+      "REPITENCIA": 10.6
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Cauca",
+      "COBERTURA_NETA": 82.53,
+      "DESERCIÓN": 3.19,
+      "REPITENCIA": 9.0
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Cesar",
+      "COBERTURA_NETA": 84.68,
+      "DESERCIÓN": 4.96,
+      "REPITENCIA": 9.43
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Córdoba",
+      "COBERTURA_NETA": 85.71,
+      "DESERCIÓN": 3.53,
+      "REPITENCIA": 10.03
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Cundinamarca",
+      "COBERTURA_NETA": 89.44,
+      "DESERCIÓN": 3.49,
+      "REPITENCIA": 8.22
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Chocó",
+      "COBERTURA_NETA": 85.74,
+      "DESERCIÓN": 2.4,
+      "REPITENCIA": 10.1
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Huila",
+      "COBERTURA_NETA": 87.97,
+      "DESERCIÓN": 4.54,
+      "REPITENCIA": 7.66
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "La Guajira",
+      "COBERTURA_NETA": 100.12,
+      "DESERCIÓN": 2.8,
+      "REPITENCIA": 12.89
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Magdalena",
+      "COBERTURA_NETA": 93.14,
+      "DESERCIÓN": 3.47,
+      "REPITENCIA": 9.83
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Meta",
+      "COBERTURA_NETA": 90.29,
+      "DESERCIÓN": 4.52,
+      "REPITENCIA": 9.27
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Nariño",
+      "COBERTURA_NETA": 76.31,
+      "DESERCIÓN": 2.46,
+      "REPITENCIA": 9.05
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Norte de Santander",
+      "COBERTURA_NETA": 87.85,
+      "DESERCIÓN": 4.37,
+      "REPITENCIA": 8.39
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Quindio",
+      "COBERTURA_NETA": 90.05,
+      "DESERCIÓN": 4.78,
+      "REPITENCIA": 8.03
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Risaralda",
+      "COBERTURA_NETA": 93.2,
+      "DESERCIÓN": 5.46,
+      "REPITENCIA": 8.13
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Santander",
+      "COBERTURA_NETA": 92.94,
+      "DESERCIÓN": 4.08,
+      "REPITENCIA": 7.6
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Sucre",
+      "COBERTURA_NETA": 90.63,
+      "DESERCIÓN": 3.16,
+      "REPITENCIA": 10.09
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Tolima",
+      "COBERTURA_NETA": 97.06,
+      "DESERCIÓN": 3.66,
+      "REPITENCIA": 7.93
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Valle del Cauca",
+      "COBERTURA_NETA": 75.84,
+      "DESERCIÓN": 4.84,
+      "REPITENCIA": 8.84
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Arauca",
+      "COBERTURA_NETA": 88.76,
+      "DESERCIÓN": 5.27,
+      "REPITENCIA": 9.14
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Casanare",
+      "COBERTURA_NETA": 91.02,
+      "DESERCIÓN": 3.77,
+      "REPITENCIA": 7.78
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Putumayo",
+      "COBERTURA_NETA": 80.01,
+      "DESERCIÓN": 6.49,
+      "REPITENCIA": 8.5
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "COBERTURA_NETA": 94.0,
+      "DESERCIÓN": 1.94,
+      "REPITENCIA": 8.45
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Amazonas",
+      "COBERTURA_NETA": 74.82,
+      "DESERCIÓN": 5.11,
+      "REPITENCIA": 12.83
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Guainía",
+      "COBERTURA_NETA": 71.94,
+      "DESERCIÓN": 4.73,
+      "REPITENCIA": 14.82
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Guaviare",
+      "COBERTURA_NETA": 74.11,
+      "DESERCIÓN": 4.8,
+      "REPITENCIA": 11.13
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Vaupés",
+      "COBERTURA_NETA": 53.45,
+      "DESERCIÓN": 5.34,
+      "REPITENCIA": 16.0
+    },
+    {
+      "AÑO": 2024,
+      "DEPARTAMENTO": "Vichada",
+      "COBERTURA_NETA": 68.25,
+      "DESERCIÓN": 6.31,
+      "REPITENCIA": 17.06
+    }
+  ]
+}
