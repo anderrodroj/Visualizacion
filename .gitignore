@@ -1,0 +1,19 @@
+# Dataset fuente (no subir a repo)
+data/
+
+# Archivos raíz de trabajo local (no los de src/)
+/data.js
+/data.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+*.suo
+*.user
+
+# Node (si se usa en el futuro)
+node_modules/
+dist/
